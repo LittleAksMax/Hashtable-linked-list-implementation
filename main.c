@@ -22,7 +22,7 @@ int main()
     init_hashtable(hashtable, TABLE_SIZE);
 
     hashtable_insert(hashtable, create_person("LittleAksMax", 15), TABLE_SIZE);
-    hashtable_insert(hashtable, create_person("LittleAssSmax", 15), TABLE_SIZE);
+    hashtable_insert(hashtable, create_person("LittleAksMax2", 15), TABLE_SIZE);
     hashtable_insert(hashtable, create_person("David", 15), TABLE_SIZE);
 
     hashtable_insert(hashtable, create_person("Szilvia", 17), TABLE_SIZE); 
